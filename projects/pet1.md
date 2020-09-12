@@ -3,7 +3,7 @@ date: 2019-03-04
 year: 2019
 title: Pet1
 category: Pets
-thumbnail: ""
+thumbnail: "/uploads/pet1.png"
 categories: 
 - nothing
 project_bg_color: ''
