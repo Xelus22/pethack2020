@@ -3,10 +3,7 @@
             <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
                 <div class="mb-8 lg:mb-0">
                   <div>
-                    <strong>xelus</strong>
-                  </div>
-                  <div>
-                     pcb enthusiast | emma lover 
+                    <strong>PetHack2020 Nunu Gang</strong>
                   </div>
                   <div>
                     {{ new Date().getFullYear() }}. All rights reserved.

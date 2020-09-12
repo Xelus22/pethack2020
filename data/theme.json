@@ -1,8 +1,8 @@
 {
   "footer": "",
-  "dark_mode": true,
-  "site_name": "Harrison Chan",
-  "site_description": "Electrical Engineer and Computer Scientist",
-  "hero_title": "Design. Electronics. PCBs.",
-  "hero_subtitle": "Hi there, I'm an independent PCB Designer but also do EE and CS."
+  "dark_mode": false,
+  "site_name": "Pethack2020",
+  "site_description": "Pethack2020",
+  "hero_title": "PetHack2020",
+  "hero_subtitle": "Our solution to theme 2"
 }
