@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://xelus.netlify.app`,
+  siteName: "PetHack2020",
+  siteUrl: `https://pethack2020-nunugang.netlify.app`,
   host: "0.0.0.0",
-  titleTemplate: "%s - Xelus",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - Nunu Gang",
+  siteDescription: "Creative technologists",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
