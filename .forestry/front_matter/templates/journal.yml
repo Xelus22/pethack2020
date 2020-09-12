@@ -31,5 +31,3 @@ fields:
     max: 20
   label: Author
   default: Xelus
-pages:
-- journal/dawn60-configuration.md
