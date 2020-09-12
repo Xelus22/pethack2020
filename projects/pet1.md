@@ -12,3 +12,5 @@ description: ''
 
 ---
 Our Pets
+
+![](/uploads/pet1.png)
