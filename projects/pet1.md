@@ -4,7 +4,8 @@ year: 2019
 title: Pet1
 category: Pets
 thumbnail: ""
-categories: ''
+categories: 
+- nothing
 project_bg_color: ''
 project_fg_color: ''
 description: ''
